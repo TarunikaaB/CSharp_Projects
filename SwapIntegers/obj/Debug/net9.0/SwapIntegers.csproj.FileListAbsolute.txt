@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\bin\Debug\net9.0\SwapIntegers.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\bin\Debug\net9.0\SwapIntegers.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\bin\Debug\net9.0\SwapIntegers.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\bin\Debug\net9.0\SwapIntegers.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\bin\Debug\net9.0\SwapIntegers.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\refint\SwapIntegers.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\SwapIntegers.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SwapIntegers\obj\Debug\net9.0\ref\SwapIntegers.dll
