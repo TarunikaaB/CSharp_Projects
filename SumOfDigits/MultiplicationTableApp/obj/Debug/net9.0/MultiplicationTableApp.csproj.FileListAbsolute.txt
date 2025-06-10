@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\bin\Debug\net9.0\MultiplicationTableApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\bin\Debug\net9.0\MultiplicationTableApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\bin\Debug\net9.0\MultiplicationTableApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\bin\Debug\net9.0\MultiplicationTableApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\bin\Debug\net9.0\MultiplicationTableApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\refint\MultiplicationTableApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\MultiplicationTableApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SumOfDigits\MultiplicationTableApp\obj\Debug\net9.0\ref\MultiplicationTableApp.dll
