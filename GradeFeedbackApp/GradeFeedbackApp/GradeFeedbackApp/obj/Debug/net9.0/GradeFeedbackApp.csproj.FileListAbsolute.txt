@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\bin\Debug\net9.0\GradeFeedbackApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\bin\Debug\net9.0\GradeFeedbackApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\bin\Debug\net9.0\GradeFeedbackApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\bin\Debug\net9.0\GradeFeedbackApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\bin\Debug\net9.0\GradeFeedbackApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\refint\GradeFeedbackApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\GradeFeedbackApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\GradeFeedbackApp\GradeFeedbackApp\GradeFeedbackApp\obj\Debug\net9.0\ref\GradeFeedbackApp.dll
