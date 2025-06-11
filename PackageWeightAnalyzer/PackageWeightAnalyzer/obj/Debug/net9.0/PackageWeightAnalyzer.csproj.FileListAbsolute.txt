@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\bin\Debug\net9.0\PackageWeightAnalyzer.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\bin\Debug\net9.0\PackageWeightAnalyzer.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\bin\Debug\net9.0\PackageWeightAnalyzer.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\bin\Debug\net9.0\PackageWeightAnalyzer.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\bin\Debug\net9.0\PackageWeightAnalyzer.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\refint\PackageWeightAnalyzer.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\PackageWeightAnalyzer.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\PackageWeightAnalyzer\PackageWeightAnalyzer\obj\Debug\net9.0\ref\PackageWeightAnalyzer.dll
