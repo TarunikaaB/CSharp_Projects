@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\bin\Debug\net9.0\MatrixApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\bin\Debug\net9.0\MatrixApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\bin\Debug\net9.0\MatrixApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\bin\Debug\net9.0\MatrixApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\bin\Debug\net9.0\MatrixApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\refint\MatrixApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\MatrixApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MatrixApp\MatrixApp\obj\Debug\net9.0\ref\MatrixApp.dll
