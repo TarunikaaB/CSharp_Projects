@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\bin\Debug\net9.0\MusicAcademy.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\bin\Debug\net9.0\MusicAcademy.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\bin\Debug\net9.0\MusicAcademy.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\bin\Debug\net9.0\MusicAcademy.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\bin\Debug\net9.0\MusicAcademy.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\refint\MusicAcademy.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\MusicAcademy.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MusicAcademy\MusicAcademy\obj\Debug\net9.0\ref\MusicAcademy.dll
