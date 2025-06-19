@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\bin\Debug\net9.0\VowelConsonantCounter.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\bin\Debug\net9.0\VowelConsonantCounter.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\bin\Debug\net9.0\VowelConsonantCounter.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\bin\Debug\net9.0\VowelConsonantCounter.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\bin\Debug\net9.0\VowelConsonantCounter.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\refint\VowelConsonantCounter.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\VowelConsonantCounter.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\VowelConsonantCounter\VowelConsonantCounter\obj\Debug\net9.0\ref\VowelConsonantCounter.dll
