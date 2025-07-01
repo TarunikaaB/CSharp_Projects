@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\bin\Debug\net9.0\MostFrequentCharacterApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\bin\Debug\net9.0\MostFrequentCharacterApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\bin\Debug\net9.0\MostFrequentCharacterApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\bin\Debug\net9.0\MostFrequentCharacterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\bin\Debug\net9.0\MostFrequentCharacterApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\refint\MostFrequentCharacterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\MostFrequentCharacterApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\MostFrequentCharacterApp\obj\Debug\net9.0\ref\MostFrequentCharacterApp.dll
