@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\bin\Debug\net9.0\SentenceModifierApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\bin\Debug\net9.0\SentenceModifierApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\bin\Debug\net9.0\SentenceModifierApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\bin\Debug\net9.0\SentenceModifierApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\bin\Debug\net9.0\SentenceModifierApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\refint\SentenceModifierApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\SentenceModifierApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\SentenceModifierApp\obj\Debug\net9.0\ref\SentenceModifierApp.dll
