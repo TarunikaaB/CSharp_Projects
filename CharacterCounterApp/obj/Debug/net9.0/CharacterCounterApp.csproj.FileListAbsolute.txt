@@ -1,0 +1,14 @@
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\bin\Debug\net9.0\CharacterCounterApp.exe
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\bin\Debug\net9.0\CharacterCounterApp.deps.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\bin\Debug\net9.0\CharacterCounterApp.runtimeconfig.json
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\bin\Debug\net9.0\CharacterCounterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\bin\Debug\net9.0\CharacterCounterApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.AssemblyInfoInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.AssemblyInfo.cs
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\refint\CharacterCounterApp.dll
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.pdb
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\CharacterCounterApp.genruntimeconfig.cache
+C:\Users\Tarunikaa\OneDrive\Documents\GitHub Codes\C# Codes\CharacterCounterApp\obj\Debug\net9.0\ref\CharacterCounterApp.dll
